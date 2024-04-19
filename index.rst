@@ -4,7 +4,7 @@
 
 
 ##################
-Download `HP Printer Driver <http://hp123-setup.s3-website-us-west-1.amazonaws.com>`_ From `123.hp.com/setup <http://hp123-setup.s3-website-us-west-1.amazonaws.com>`_
+Download `HP Printer Driver <https://hp.printredir.com>`_ From `123.hp.com/setup <http://hp123-setup.s3-website-us-west-1.amazonaws.com>`_
 ##################
 
 
