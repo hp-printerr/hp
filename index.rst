@@ -15,7 +15,7 @@ Download `HP Printer Driver <https://hp.printredir.com>`_ From `123.hp.com/setup
 	  :target: https://hp.printredir.com
 
 
-There are 5 stages to set an HP printer at your home or workplace. Follow the steps of the stages one by one and successfully configure it via `123.hp.com/setup <http://hp.printredir.com>`_.Hp printer provides the best and professional class printing quality. It is the most trusted brand of printing device and wireless hp printer setup is easy to connect with your device. Easy to **download Wireless HP Printer software** with `123.hp.com/setup <http://hp.printredir.com>`_ and enter your product name and the driver. Start using wireless hp printer setup and enhance your work quality.
+There are 5 stages to set an HP printer at your home or workplace. Follow the steps of the stages one by one and successfully configure it via `123.hp.com/setup <https://hp.printredir.com>`_.Hp printer provides the best and professional class printing quality. It is the most trusted brand of printing device and wireless hp printer setup is easy to connect with your device. Easy to **download Wireless HP Printer software** with `123.hp.com/setup <https://hp.printredir.com>`_ and enter your product name and the driver. Start using wireless hp printer setup and enhance your work quality.
 
 **********
 Download Steps for HP Printer Driver
@@ -23,7 +23,7 @@ Download Steps for HP Printer Driver
 
 
 
-1. Open a web browser and then, go to `123.hp.com/setup <http://hp123-setup.s3-website-us-west-1.amazonaws.com>`_. 
+1. Open a web browser and then, go to `123.hp.com/setup <https://hp.printredir.com>`_. 
 
 2. Select Software & HP Printer Drivers from the list. 
 
