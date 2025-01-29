@@ -15,7 +15,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Install TurboTax'
+project = 'HP Printer Setup'
 copyright = '2025, Your Name or Company'
 author = 'Your Name or Team'
 
