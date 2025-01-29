@@ -11,7 +11,7 @@ templates_path = ['_templates']
 exclude_patterns = []
 
 # -- Options for HTML output -------------------------------------------------
-html_theme = 'alabaster'
+html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 html_theme_options = {}
 html_context = {}
